@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card {
+  width: 500px;
+  height: 500px;
+  margin: 100px auto;
+}
+.card .dp {
+  width: 100%;
+  height: 60%;
+  background-color: rgb(113, 212, 242);
+}
+
+.card .dp img {
+  margin: 0 100px;
+  padding: 20px 0 0 0;
+  height: 100%;
+  width: 60%;
+}
+
+.card .information {
+  margin: 20px 100px;
+}
+
+.card .information .badge {
+  font-size: 1.1rem;
+}
